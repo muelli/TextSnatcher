@@ -58,7 +58,7 @@ foreach s : icon_sizes
   )
 endforeach
 
-scalable_svg = join_paths('icons', 'scalable', project_name + '.svg')
+scalable_svg = join_paths('icons', project_name + '.svg')
 install_data(scalable_svg, install_dir: join_paths(get_option('datadir'), 'icons', 'hicolor', 'scalable', 'apps'))
 
 # Translate and install our .desktop file so the Applications Menu will see it
