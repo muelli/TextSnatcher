@@ -66,7 +66,7 @@
   <url type="bugtracker">https://github.com/RajSolai/TextSnatcher/issues</url>
   <url type="help">https://github.com/RajSolai/TextSnatcher/issues</url>
   <content_rating type="oars-1.1"/>
-  <launchable type="desktop-id">com.github.rajsolai.textsnatcher</launchable>
+  <launchable type="desktop-id">com.github.rajsolai.textsnatcher.desktop</launchable>
   <provides>
     <binary>com.github.rajsolai.textsnatcher</binary>
   </provides>
