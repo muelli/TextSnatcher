@@ -4,7 +4,7 @@
   <id>com.github.rajsolai.textsnatcher</id>
   <name>TextSnatcher</name>
   <summary>Snatch Text with just a Drag</summary>
-  <developer>
+  <developer id="com.github.rajsolai">
     <name>Solai Raj (RajSolai)</name>
   </developer>
   <metadata_license>CC0-1.0</metadata_license>
@@ -14,8 +14,12 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://raw.githubusercontent.com/RajSolai/TextSnatcher/master/data/screenshots/snap-dark.png</image>
+      <caption>Screenshot of the app</caption>
       <image type="source">https://raw.githubusercontent.com/RajSolai/TextSnatcher/master/data/screenshots/snap-default.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Dark mode</caption>
+      <image type="source">https://raw.githubusercontent.com/RajSolai/TextSnatcher/master/data/screenshots/snap-dark.png</image>
     </screenshot>
   </screenshots>
   <releases>
